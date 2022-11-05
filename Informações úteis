@@ -1,0 +1,8 @@
+Decoradores são um elemento significante do Python, também são conhecidos como meta-programação, 
+para simplificarmos sua ideia, podemos dizer que eles são funções que modificam a funcionalidade de 
+ma outra função, eles nos ajudam a deixar o código menor e mais Pythônico (legível ao modo Python).
+
+Decoradores começam com o @nome_decorador.
+
+Exemplos são: @classmethod, @staticmethod, @abstractmethod etd.
+
